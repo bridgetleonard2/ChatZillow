@@ -1,0 +1,101 @@
+prompt,location,listing_type,style,beds,full_baths,half_baths,sqft,year_built,list_price,stories,parking_garage
+"I'm looking for a apartment in New York, NY with 1 bedrooms and 2 bathrooms.","New York, NY",for_rent,APARTMENT,1,2,,,1960.0,,,
+"I'm looking for a single_family in Phoenix, AZ with 5 bedrooms and 3 bathrooms.","Phoenix, AZ",pending,SINGLE_FAMILY,5,3,,,,,,
+"I'm looking for a single_family in Los Angeles, CA with 4 bedrooms and 3 bathrooms, spanning at least 1022 square feet, built after 1991, with parking for at least 1 cars.","Los Angeles, CA",for_sale,SINGLE_FAMILY,4,3,,1022.0,,,,1.0
+"I'm looking for a condos in San Diego, CA with 1 bedrooms and 3 bathrooms, with parking for at least 2 cars.","San Diego, CA",pending,CONDOS,1,3,,,1988.0,,,2.0
+"I'm looking for a townhomes in San Antonio, TX with 3 bedrooms and 2 bathrooms, spanning at least 1766 square feet.","San Antonio, TX",for_sale,TOWNHOMES,3,2,,1766.0,,,,
+"I'm looking for a single_family in Dallas, TX with 3 bedrooms and 1 bathrooms.","Dallas, TX",for_rent,SINGLE_FAMILY,3,1,,,,,,
+"I'm looking for a single_family in Dallas, TX with 2 bedrooms and 2 bathrooms, spanning at least 1958 square feet.","Dallas, TX",sold,SINGLE_FAMILY,2,2,,1958.0,,,,
+"I'm looking for a single_family in Phoenix, AZ with 1 bedrooms and 1 bathrooms.","Phoenix, AZ",for_sale,SINGLE_FAMILY,1,1,,,,,,
+"I'm looking for a apartment in San Jose, CA with 3 bedrooms and 1 bathrooms.","San Jose, CA",pending,APARTMENT,3,1,,,,,,
+"I'm looking for a single_family in Phoenix, AZ with 2 bedrooms and 3 bathrooms, with parking for at least 2 cars.","Phoenix, AZ",for_rent,SINGLE_FAMILY,2,3,,3125.0,,,,2.0
+"I'm looking for a apartment in Philadelphia, PA with 4 bedrooms and 2 bathrooms, built after 1932, with parking for at least 1 cars.","Philadelphia, PA",for_rent,APARTMENT,4,2,,1166.0,1932.0,,,1.0
+"I'm looking for a apartment in San Jose, CA with 4 bedrooms and 3 bathrooms.","San Jose, CA",for_rent,APARTMENT,4,3,,3133.0,2017.0,,,
+"I'm looking for a apartment in Philadelphia, PA with 4 bedrooms and 1 bathrooms.","Philadelphia, PA",for_rent,APARTMENT,4,1,,,,,,
+"I'm looking for a apartment in New York, NY with 1 bedrooms and 3 bathrooms, with parking for at least 3 cars.","New York, NY",pending,APARTMENT,1,3,,,2008.0,,,3.0
+"I'm looking for a single_family in Dallas, TX with 2 bedrooms and 3 bathrooms, built after 1933.","Dallas, TX",for_rent,SINGLE_FAMILY,2,3,,,1933.0,,,
+"I'm looking for a single_family in Phoenix, AZ with 1 bedrooms and 3 bathrooms, with parking for at least 3 cars.","Phoenix, AZ",pending,SINGLE_FAMILY,1,3,,3484.0,,,,3.0
+"I'm looking for a condos in Houston, TX with 4 bedrooms and 1 bathrooms, spanning at least 836 square feet.","Houston, TX",for_sale,CONDOS,4,1,,836.0,,,,
+"I'm looking for a apartment in New York, NY with 5 bedrooms and 3 bathrooms, built after 1983.","New York, NY",sold,APARTMENT,5,3,,,,,,
+"I'm looking for a apartment in Philadelphia, PA with 3 bedrooms and 3 bathrooms.","Philadelphia, PA",sold,APARTMENT,3,3,,,1996.0,,,
+"I'm looking for a single_family in Phoenix, AZ with 1 bedrooms and 2 bathrooms, spanning at least 2197 square feet.","Phoenix, AZ",for_sale,SINGLE_FAMILY,1,2,,,,,,
+"I'm looking for a single_family in Phoenix, AZ with 4 bedrooms and 2 bathrooms, built after 1957.","Phoenix, AZ",pending,SINGLE_FAMILY,4,2,,2977.0,,,,
+"I'm looking for a townhomes in Chicago, IL with 2 bedrooms and 1 bathrooms, spanning at least 1863 square feet, with parking for at least 1 cars.","Chicago, IL",sold,TOWNHOMES,2,1,,1863.0,1924.0,,,1.0
+"I'm looking for a apartment in San Jose, CA with 3 bedrooms and 3 bathrooms, spanning at least 718 square feet, built after 2016, with parking for at least 2 cars.","San Jose, CA",pending,APARTMENT,3,3,,718.0,2016.0,,,2.0
+"I'm looking for a single_family in Los Angeles, CA with 5 bedrooms and 3 bathrooms, spanning at least 875 square feet.","Los Angeles, CA",for_sale,SINGLE_FAMILY,5,3,,,1981.0,,,
+"I'm looking for a townhomes in San Antonio, TX with 4 bedrooms and 2 bathrooms, with parking for at least 2 cars.","San Antonio, TX",for_sale,TOWNHOMES,4,2,,3010.0,,,,2.0
+"I'm looking for a townhomes in Chicago, IL with 5 bedrooms and 2 bathrooms.","Chicago, IL",pending,TOWNHOMES,5,2,,,,,,
+"I'm looking for a single_family in Phoenix, AZ with 2 bedrooms and 3 bathrooms, spanning at least 1955 square feet.","Phoenix, AZ",pending,SINGLE_FAMILY,2,3,,,,,,
+"I'm looking for a apartment in New York, NY with 3 bedrooms and 3 bathrooms, spanning at least 1711 square feet, with parking for at least 2 cars.","New York, NY",pending,APARTMENT,3,3,,,,,,2.0
+"I'm looking for a apartment in New York, NY with 1 bedrooms and 2 bathrooms, spanning at least 2350 square feet, built after 1998, with parking for at least 2 cars.","New York, NY",pending,APARTMENT,1,2,,2350.0,1998.0,,,2.0
+"I'm looking for a condos in San Diego, CA with 4 bedrooms and 3 bathrooms, spanning at least 523 square feet.","San Diego, CA",pending,CONDOS,4,3,,523.0,,,,
+"I'm looking for a townhomes in San Antonio, TX with 1 bedrooms and 1 bathrooms, spanning at least 2849 square feet.","San Antonio, TX",pending,TOWNHOMES,1,1,,,1975.0,,,
+"I'm looking for a single_family in Phoenix, AZ with 3 bedrooms and 2 bathrooms, built after 1967, with parking for at least 1 cars.","Phoenix, AZ",for_sale,SINGLE_FAMILY,3,2,,,,,,1.0
+"I'm looking for a single_family in Dallas, TX with 1 bedrooms and 3 bathrooms, spanning at least 3417 square feet, with parking for at least 3 cars.","Dallas, TX",pending,SINGLE_FAMILY,1,3,,,,,,3.0
+"I'm looking for a condos in Houston, TX with 3 bedrooms and 1 bathrooms, spanning at least 2182 square feet, built after 1929, with parking for at least 3 cars.","Houston, TX",for_sale,CONDOS,3,1,,,,,,3.0
+"I'm looking for a single_family in Dallas, TX with 2 bedrooms and 2 bathrooms, spanning at least 2265 square feet, with parking for at least 2 cars.","Dallas, TX",for_sale,SINGLE_FAMILY,2,2,,,,,,2.0
+"I'm looking for a apartment in San Jose, CA with 2 bedrooms and 1 bathrooms, spanning at least 2885 square feet.","San Jose, CA",for_sale,APARTMENT,2,1,,,,,,
+"I'm looking for a townhomes in Chicago, IL with 1 bedrooms and 1 bathrooms, spanning at least 1482 square feet, with parking for at least 1 cars.","Chicago, IL",for_sale,TOWNHOMES,1,1,,,,,,1.0
+"I'm looking for a condos in San Diego, CA with 1 bedrooms and 3 bathrooms, spanning at least 1479 square feet, built after 1983, with parking for at least 3 cars.","San Diego, CA",for_rent,CONDOS,1,3,,1479.0,,,,3.0
+"I'm looking for a apartment in Philadelphia, PA with 1 bedrooms and 1 bathrooms, with parking for at least 2 cars.","Philadelphia, PA",pending,APARTMENT,1,1,,3037.0,,,,2.0
+"I'm looking for a condos in San Diego, CA with 1 bedrooms and 3 bathrooms, spanning at least 2902 square feet, with parking for at least 3 cars.","San Diego, CA",for_rent,CONDOS,1,3,,2902.0,,,,3.0
+"I'm looking for a townhomes in Chicago, IL with 3 bedrooms and 2 bathrooms, spanning at least 2117 square feet, built after 2005, with parking for at least 2 cars.","Chicago, IL",pending,TOWNHOMES,3,2,,2117.0,,,,2.0
+"I'm looking for a condos in Houston, TX with 3 bedrooms and 3 bathrooms, spanning at least 1372 square feet.","Houston, TX",sold,CONDOS,3,3,,1372.0,,,,
+"I'm looking for a apartment in New York, NY with 5 bedrooms and 3 bathrooms, built after 2000, with parking for at least 2 cars.","New York, NY",pending,APARTMENT,5,3,,2707.0,,,,2.0
+"I'm looking for a apartment in Philadelphia, PA with 5 bedrooms and 3 bathrooms, spanning at least 873 square feet.","Philadelphia, PA",pending,APARTMENT,5,3,,873.0,,,,
+"I'm looking for a single_family in Los Angeles, CA with 2 bedrooms and 2 bathrooms, spanning at least 940 square feet, with parking for at least 2 cars.","Los Angeles, CA",for_sale,SINGLE_FAMILY,2,2,,,,,,2.0
+"I'm looking for a apartment in San Jose, CA with 1 bedrooms and 3 bathrooms, spanning at least 652 square feet, with parking for at least 2 cars.","San Jose, CA",for_rent,APARTMENT,1,3,,652.0,1913.0,,,2.0
+"I'm looking for a townhomes in Chicago, IL with 5 bedrooms and 1 bathrooms, with parking for at least 2 cars.","Chicago, IL",sold,TOWNHOMES,5,1,,1615.0,,,,2.0
+"I'm looking for a apartment in New York, NY with 1 bedrooms and 1 bathrooms, with parking for at least 3 cars.","New York, NY",for_sale,APARTMENT,1,1,,,,,,3.0
+"I'm looking for a single_family in Phoenix, AZ with 2 bedrooms and 2 bathrooms, with parking for at least 3 cars.","Phoenix, AZ",for_sale,SINGLE_FAMILY,2,2,,1777.0,,,,3.0
+"I'm looking for a single_family in Dallas, TX with 1 bedrooms and 3 bathrooms, spanning at least 2268 square feet, built after 1959, with parking for at least 2 cars.","Dallas, TX",for_rent,SINGLE_FAMILY,1,3,,2268.0,,,,2.0
+"I'm looking for a townhomes in San Antonio, TX with 4 bedrooms and 3 bathrooms, with parking for at least 3 cars.","San Antonio, TX",for_rent,TOWNHOMES,4,3,,,,,,3.0
+"I'm looking for a single_family in Los Angeles, CA with 1 bedrooms and 1 bathrooms, built after 1985, with parking for at least 3 cars.","Los Angeles, CA",for_sale,SINGLE_FAMILY,1,1,,,1985.0,,,3.0
+"I'm looking for a apartment in New York, NY with 2 bedrooms and 1 bathrooms, spanning at least 1374 square feet.","New York, NY",for_rent,APARTMENT,2,1,,1374.0,,,,
+"I'm looking for a single_family in Los Angeles, CA with 4 bedrooms and 3 bathrooms, spanning at least 1955 square feet, with parking for at least 1 cars.","Los Angeles, CA",sold,SINGLE_FAMILY,4,3,,,1968.0,,,1.0
+"I'm looking for a single_family in Dallas, TX with 2 bedrooms and 3 bathrooms, spanning at least 2498 square feet.","Dallas, TX",pending,SINGLE_FAMILY,2,3,,,,,,
+"I'm looking for a condos in Houston, TX with 1 bedrooms and 3 bathrooms, spanning at least 3388 square feet, with parking for at least 1 cars.","Houston, TX",sold,CONDOS,1,3,,3388.0,2008.0,,,1.0
+"I'm looking for a apartment in Philadelphia, PA with 5 bedrooms and 3 bathrooms.","Philadelphia, PA",for_sale,APARTMENT,5,3,,,2013.0,,,
+"I'm looking for a apartment in San Jose, CA with 4 bedrooms and 1 bathrooms, spanning at least 1319 square feet, with parking for at least 1 cars.","San Jose, CA",sold,APARTMENT,4,1,,,,,,1.0
+"I'm looking for a single_family in Dallas, TX with 1 bedrooms and 2 bathrooms, spanning at least 1899 square feet, built after 1908, with parking for at least 3 cars.","Dallas, TX",pending,SINGLE_FAMILY,1,2,,,1908.0,,,3.0
+"I'm looking for a apartment in San Jose, CA with 3 bedrooms and 2 bathrooms, spanning at least 695 square feet.","San Jose, CA",for_sale,APARTMENT,3,2,,,,,,
+"I'm looking for a townhomes in Chicago, IL with 3 bedrooms and 1 bathrooms, spanning at least 3128 square feet, built after 1930.","Chicago, IL",for_rent,TOWNHOMES,3,1,,,,,,
+"I'm looking for a single_family in Dallas, TX with 5 bedrooms and 3 bathrooms, built after 1937.","Dallas, TX",for_sale,SINGLE_FAMILY,5,3,,,1937.0,,,
+"I'm looking for a single_family in Dallas, TX with 1 bedrooms and 2 bathrooms.","Dallas, TX",for_sale,SINGLE_FAMILY,1,2,,,,,,
+"I'm looking for a townhomes in Chicago, IL with 4 bedrooms and 1 bathrooms, spanning at least 541 square feet, with parking for at least 3 cars.","Chicago, IL",for_sale,TOWNHOMES,4,1,,541.0,,,,3.0
+"I'm looking for a single_family in Dallas, TX with 5 bedrooms and 2 bathrooms.","Dallas, TX",for_sale,SINGLE_FAMILY,5,2,,,,,,
+"I'm looking for a townhomes in San Antonio, TX with 1 bedrooms and 3 bathrooms.","San Antonio, TX",for_rent,TOWNHOMES,1,3,,3459.0,,,,
+"I'm looking for a single_family in Phoenix, AZ with 1 bedrooms and 3 bathrooms, with parking for at least 3 cars.","Phoenix, AZ",sold,SINGLE_FAMILY,1,3,,1608.0,,,,3.0
+"I'm looking for a single_family in Dallas, TX with 3 bedrooms and 2 bathrooms, spanning at least 1268 square feet, built after 2020, with parking for at least 3 cars.","Dallas, TX",for_sale,SINGLE_FAMILY,3,2,,,,,,3.0
+"I'm looking for a townhomes in San Antonio, TX with 1 bedrooms and 1 bathrooms, built after 2001, with parking for at least 1 cars.","San Antonio, TX",for_sale,TOWNHOMES,1,1,,2168.0,,,,1.0
+"I'm looking for a single_family in Los Angeles, CA with 1 bedrooms and 1 bathrooms, spanning at least 2001 square feet, with parking for at least 2 cars.","Los Angeles, CA",sold,SINGLE_FAMILY,1,1,,,,,,2.0
+"I'm looking for a apartment in San Jose, CA with 4 bedrooms and 1 bathrooms, built after 1951.","San Jose, CA",for_rent,APARTMENT,4,1,,,1951.0,,,
+"I'm looking for a condos in Houston, TX with 1 bedrooms and 1 bathrooms, spanning at least 3326 square feet.","Houston, TX",sold,CONDOS,1,1,,,,,,
+"I'm looking for a condos in San Diego, CA with 1 bedrooms and 2 bathrooms.","San Diego, CA",pending,CONDOS,1,2,,3197.0,1976.0,,,
+"I'm looking for a single_family in Los Angeles, CA with 2 bedrooms and 2 bathrooms, spanning at least 2222 square feet, built after 1952.","Los Angeles, CA",for_rent,SINGLE_FAMILY,2,2,,2222.0,1952.0,,,
+"I'm looking for a condos in Houston, TX with 1 bedrooms and 1 bathrooms, with parking for at least 3 cars.","Houston, TX",for_rent,CONDOS,1,1,,,1981.0,,,3.0
+"I'm looking for a apartment in New York, NY with 3 bedrooms and 2 bathrooms, with parking for at least 1 cars.","New York, NY",for_rent,APARTMENT,3,2,,3290.0,,,,1.0
+"I'm looking for a townhomes in Chicago, IL with 1 bedrooms and 2 bathrooms, built after 1934, with parking for at least 1 cars.","Chicago, IL",sold,TOWNHOMES,1,2,,3229.0,,,,1.0
+"I'm looking for a single_family in Los Angeles, CA with 4 bedrooms and 3 bathrooms.","Los Angeles, CA",sold,SINGLE_FAMILY,4,3,,605.0,1927.0,,,
+"I'm looking for a townhomes in Chicago, IL with 4 bedrooms and 1 bathrooms, spanning at least 1682 square feet.","Chicago, IL",for_rent,TOWNHOMES,4,1,,,1957.0,,,
+"I'm looking for a single_family in Dallas, TX with 4 bedrooms and 2 bathrooms, spanning at least 2537 square feet.","Dallas, TX",for_sale,SINGLE_FAMILY,4,2,,2537.0,,,,
+"I'm looking for a apartment in New York, NY with 3 bedrooms and 1 bathrooms, spanning at least 2198 square feet, built after 1998.","New York, NY",for_rent,APARTMENT,3,1,,,1998.0,,,
+"I'm looking for a single_family in Los Angeles, CA with 5 bedrooms and 2 bathrooms, spanning at least 2184 square feet.","Los Angeles, CA",pending,SINGLE_FAMILY,5,2,,2184.0,,,,
+"I'm looking for a apartment in New York, NY with 2 bedrooms and 2 bathrooms.","New York, NY",for_rent,APARTMENT,2,2,,,,,,
+"I'm looking for a condos in San Diego, CA with 5 bedrooms and 2 bathrooms, spanning at least 1993 square feet, with parking for at least 2 cars.","San Diego, CA",for_sale,CONDOS,5,2,,,,,,2.0
+"I'm looking for a single_family in Phoenix, AZ with 3 bedrooms and 3 bathrooms.","Phoenix, AZ",for_sale,SINGLE_FAMILY,3,3,,,,,,
+"I'm looking for a condos in San Diego, CA with 1 bedrooms and 2 bathrooms, with parking for at least 1 cars.","San Diego, CA",for_sale,CONDOS,1,2,,2670.0,1968.0,,,1.0
+"I'm looking for a townhomes in San Antonio, TX with 1 bedrooms and 1 bathrooms, spanning at least 834 square feet, with parking for at least 2 cars.","San Antonio, TX",pending,TOWNHOMES,1,1,,,,,,2.0
+"I'm looking for a condos in Houston, TX with 2 bedrooms and 1 bathrooms, built after 1989.","Houston, TX",sold,CONDOS,2,1,,,1989.0,,,
+"I'm looking for a single_family in Los Angeles, CA with 1 bedrooms and 1 bathrooms, built after 1903, with parking for at least 1 cars.","Los Angeles, CA",sold,SINGLE_FAMILY,1,1,,2622.0,,,,1.0
+"I'm looking for a apartment in San Jose, CA with 5 bedrooms and 3 bathrooms, with parking for at least 3 cars.","San Jose, CA",for_sale,APARTMENT,5,3,,1808.0,1929.0,,,3.0
+"I'm looking for a townhomes in San Antonio, TX with 4 bedrooms and 3 bathrooms.","San Antonio, TX",for_rent,TOWNHOMES,4,3,,2287.0,,,,
+"I'm looking for a single_family in Los Angeles, CA with 3 bedrooms and 3 bathrooms, spanning at least 1137 square feet, with parking for at least 2 cars.","Los Angeles, CA",sold,SINGLE_FAMILY,3,3,,1137.0,,,,2.0
+"I'm looking for a apartment in San Jose, CA with 3 bedrooms and 3 bathrooms.","San Jose, CA",sold,APARTMENT,3,3,,1106.0,,,,
+"I'm looking for a single_family in Los Angeles, CA with 3 bedrooms and 1 bathrooms.","Los Angeles, CA",sold,SINGLE_FAMILY,3,1,,733.0,,,,
+"I'm looking for a single_family in Los Angeles, CA with 4 bedrooms and 3 bathrooms, built after 2003, with parking for at least 1 cars.","Los Angeles, CA",for_rent,SINGLE_FAMILY,4,3,,,2003.0,,,1.0
+"I'm looking for a apartment in Philadelphia, PA with 3 bedrooms and 1 bathrooms, spanning at least 2777 square feet, built after 1959, with parking for at least 1 cars.","Philadelphia, PA",for_sale,APARTMENT,3,1,,,,,,1.0
+"I'm looking for a single_family in Phoenix, AZ with 4 bedrooms and 1 bathrooms, spanning at least 3196 square feet, built after 1991.","Phoenix, AZ",sold,SINGLE_FAMILY,4,1,,3196.0,,,,
+"I'm looking for a condos in San Diego, CA with 5 bedrooms and 2 bathrooms, spanning at least 1649 square feet.","San Diego, CA",for_sale,CONDOS,5,2,,1649.0,,,,
+"I'm looking for a townhomes in Chicago, IL with 5 bedrooms and 3 bathrooms, built after 1968, with parking for at least 2 cars.","Chicago, IL",pending,TOWNHOMES,5,3,,,,,,2.0
+"I'm looking for a condos in Houston, TX with 4 bedrooms and 2 bathrooms.","Houston, TX",for_sale,CONDOS,4,2,,,1991.0,,,

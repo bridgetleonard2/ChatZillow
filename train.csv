@@ -1,0 +1,3 @@
+prompt,location,listing_type,past_days,style,beds,full_baths,half_baths,sqft,year_buit,list_price,stories,parking_garage
+"I'm looking to buy a house in Seattle, WA with at least three bedrooms","Seattle, WA","for_sale",NaN,SINGLE_FAMILY,3,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+"I want to rent a 2-bedroom apartment in New York","New York, NY","for_rent",NaN,"APARTMENT",2,NaN,NaN,NaN,NaN,NaN,NaN,NaN
